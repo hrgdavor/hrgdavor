@@ -1,4 +1,14 @@
-### Hi there 👋
+ATM, my main focus is around making 3d models for 3d priting in JS, by coding models I want to print
+and also contributing to https://github.com/jscad/OpenJSCAD.org or indirectly by prototyping new things
+for jscad here https://github.com/hrgdavor/jscadui/ .
+
+# highlights
+| ![gizmo in action](https://github.com/hrgdavor/jscadui/blob/767a16ffe869bd0b2fff35ade8aefacc7fa7179b/packages/html-gizmo/docs/gizmo.gif)    | Cube camera gizmo for 3d views, a parametrizable Web Component. Check out the [demo here](https://hrgdavor.github.io/jscadui/html-gizmo/). It is also a nice example of using shadow DOM.    |
+| ---- | ---- |
+
+# for kids
+ - [toddlerzilla](https://github.com/hrgdavor/toddlerzilla) - fun thing for kids to smack keyboard on your pc [demo](https://hrgdavor.github.io/toddlerzilla/)
+
 
 <!--
 **hrgdavor/hrgdavor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
