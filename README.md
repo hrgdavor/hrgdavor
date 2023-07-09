@@ -1,6 +1,6 @@
 ATM, my main focus is around making 3d models for 3d priting in JS, by coding models I want to print
 and also contributing to https://github.com/jscad/OpenJSCAD.org or indirectly by prototyping new things
-for jscad here https://github.com/hrgdavor/jscadui/ .
+for jscad here https://github.com/hrgdavor/jscadui/. If interested you can join [jscad discord channel](https://discord.gg/AaqGskur93).
 
 # highlights
 | ![gizmo in action](https://github.com/hrgdavor/jscadui/blob/767a16ffe869bd0b2fff35ade8aefacc7fa7179b/packages/html-gizmo/docs/gizmo.gif)    | Cube camera gizmo for 3d views, a parametrizable Web Component. Check out the [demo here](https://hrgdavor.github.io/jscadui/html-gizmo/). It is also a nice example of using shadow DOM.    |
