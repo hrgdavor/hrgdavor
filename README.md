@@ -3,14 +3,19 @@ ATM, my main focus is around making 3d models for 3d priting in JS, by coding mo
 Trying to contribute as much as I can directly to [OpenJSCAD](https://github.com/jscad/OpenJSCAD.org) or indirectly by prototyping new things
 like [jscadui](https://github.com/hrgdavor/jscadui/). 
 
-If you are interested in CODE-CAD using JS you can also join the crowd in the [jscad discord channel](https://discord.gg/AaqGskur93).
+If you are interested in CODE-CAD using JS you can also join the crowd in the [jscad discord channel](https://discord.gg/6PB7qZ4HC7).
 
-# highlights
-| ![gizmo in action](https://github.com/hrgdavor/jscadui/blob/767a16ffe869bd0b2fff35ade8aefacc7fa7179b/packages/html-gizmo/docs/gizmo.gif)    | Cube camera gizmo for 3d views, a parametrizable Web Component. Check out the [demo here](https://hrgdavor.github.io/jscadui/html-gizmo/). It is also a nice example of using shadow DOM.    |
-| ---- | ---- |
+## highlights
+- [livetest4j](https://github.com/hrgdavor/livetest4j)
+- [jscadui](https://github.com/hrgdavor/jscadui)
 
 # for kids
  - [toddlerzilla](https://github.com/hrgdavor/toddlerzilla) - fun thing for kids to smack keyboard on your pc [demo](https://hrgdavor.github.io/toddlerzilla/)
+
+# webcomponent
+![gizmo in action](https://github.com/hrgdavor/jscadui/blob/767a16ffe869bd0b2fff35ade8aefacc7fa7179b/packages/html-gizmo/docs/gizmo.gif)
+
+Cube camera gizmo for 3d views, a parametrizable Web Component. Check out the [demo here](https://hrgdavor.github.io/jscadui/html-gizmo/). It is also a nice example of using shadow DOM.
 
 
 <!--
