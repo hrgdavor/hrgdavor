@@ -6,8 +6,9 @@ like [jscadui](https://github.com/hrgdavor/jscadui/).
 If you are interested in CODE-CAD using JS you can also join the crowd in the [jscad discord channel](https://discord.gg/6PB7qZ4HC7).
 
 ## highlights
+- [jscadui](https://github.com/hrgdavor/jscadui) ->  [jscad.app](https://jscad.app)
 - [livetest4j](https://github.com/hrgdavor/livetest4j)
-- [jscadui](https://github.com/hrgdavor/jscadui)
+- [hql-query-builder](https://github.com/hrgdavor/hql-query-builder)
 
 # for kids
  - [toddlerzilla](https://github.com/hrgdavor/toddlerzilla) - fun thing for kids to smack keyboard on your pc [demo](https://hrgdavor.github.io/toddlerzilla/)
